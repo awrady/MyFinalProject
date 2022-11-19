@@ -1,13 +1,20 @@
 *{
     margin: 0px;
     padding: 0px;
+    
+    
 }
 body{
+display: inline;
   
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+body{
+    display: inline;
+}
 
 .main{
+    
     
 }
 
@@ -20,6 +27,8 @@ body{
     border-radius: 5px;
      margin: 40px; 
     box-shadow: 2px 2px 10px black;
+    display: inline;
+    
 }
 .cards:hover{
     
@@ -33,6 +42,7 @@ body{
 .title{
     text-align: center;
     padding: 5px;
+    margin: 50px;
 }
 .des{
     text-align: center;
@@ -52,3 +62,4 @@ button:hover{
     transition: .5s;
     cursor: pointer;
 }
+
